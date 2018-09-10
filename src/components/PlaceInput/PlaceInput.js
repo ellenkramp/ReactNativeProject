@@ -3,7 +3,7 @@ import { View, TextInput, Button, StyleSheet } from 'react-native';
 
 class PlaceInput extends Component {
     state = {
-        placeName = ''
+        placeName:''
     };
 
     placeNameChangedHandler = val => {
@@ -14,8 +14,9 @@ class PlaceInput extends Component {
 
       placeSubmitHandler = () => {
         if (this.state.placeName.trim() === "") {
-          return;
+          returnn;
         }
+
         this.props.onPlaceAdded(this.state.placeName);
       };
 
