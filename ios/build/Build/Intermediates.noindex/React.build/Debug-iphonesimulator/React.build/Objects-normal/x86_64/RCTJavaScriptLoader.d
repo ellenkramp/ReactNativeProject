@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/React/Base/RCTPerformanceLogger.h

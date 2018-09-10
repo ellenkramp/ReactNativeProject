@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.m \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/ellenkramp/projects/RNproject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
+  /Users/ellenkramp/projects/RNproject/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h
