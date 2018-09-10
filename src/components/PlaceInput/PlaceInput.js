@@ -14,7 +14,7 @@ class PlaceInput extends Component {
 
       placeSubmitHandler = () => {
         if (this.state.placeName.trim() === "") {
-          returnn;
+          return;
         }
 
         this.props.onPlaceAdded(this.state.placeName);
